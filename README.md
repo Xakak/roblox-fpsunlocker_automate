@@ -24,4 +24,4 @@ This Python script monitors running processes and launches the rbxfpsunlocker pr
    
 ## Download 
 Download FPS Unlocker:
-[Link](https://github.com/axstin/rbxfpsunlocker/releases)
+[Roblox-FPS-Unlocker](https://github.com/axstin/rbxfpsunlocker/releases)
